@@ -1,0 +1,45 @@
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Сlustering\Сlustering\bin\Debug\Сlustering.exe.config
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Сlustering\Сlustering\bin\Debug\Сlustering.exe
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Сlustering\Сlustering\bin\Debug\Сlustering.pdb
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Сlustering\Сlustering\obj\Debug\Сlustering.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Сlustering\Сlustering\obj\Debug\Сlustering.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Сlustering\Сlustering\obj\Debug\Сlustering.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Сlustering\Сlustering\obj\Debug\Сlustering.exe
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Сlustering\Сlustering\obj\Debug\Сlustering.pdb
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Сlustering\Сlustering\obj\Debug\Сlustering.Form1.resources
+C:\Users\Evgeniy\Desktop\тест копия программы\Сlustering\Сlustering\obj\Debug\Сlustering.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\тест копия программы\Сlustering\Сlustering\obj\Debug\Сlustering.Form1.resources
+C:\Users\Evgeniy\Desktop\тест копия программы\Сlustering\Сlustering\obj\Debug\Сlustering.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\тест копия программы\Сlustering\Сlustering\obj\Debug\Сlustering.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\тест копия программы\Сlustering\Сlustering\obj\Debug\Сlustering.exe
+C:\Users\Evgeniy\Desktop\тест копия программы\Сlustering\Сlustering\obj\Debug\Сlustering.pdb
+C:\Users\Evgeniy\Desktop\тест копия программы\Сlustering\Сlustering\bin\Debug\Сlustering.exe.config
+C:\Users\Evgeniy\Desktop\тест копия программы\Сlustering\Сlustering\bin\Debug\Сlustering.exe
+C:\Users\Evgeniy\Desktop\тест копия программы\Сlustering\Сlustering\bin\Debug\Сlustering.pdb
+C:\Users\Evgeniy\Desktop\тест копия программы\Изменение агентов\Сlustering\Сlustering\bin\Debug\Сlustering.exe.config
+C:\Users\Evgeniy\Desktop\тест копия программы\Изменение агентов\Сlustering\Сlustering\bin\Debug\Сlustering.exe
+C:\Users\Evgeniy\Desktop\тест копия программы\Изменение агентов\Сlustering\Сlustering\bin\Debug\Сlustering.pdb
+C:\Users\Evgeniy\Desktop\тест копия программы\Изменение агентов\Сlustering\Сlustering\obj\Debug\Сlustering.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\тест копия программы\Изменение агентов\Сlustering\Сlustering\obj\Debug\Сlustering.Form1.resources
+C:\Users\Evgeniy\Desktop\тест копия программы\Изменение агентов\Сlustering\Сlustering\obj\Debug\Сlustering.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\тест копия программы\Изменение агентов\Сlustering\Сlustering\obj\Debug\Сlustering.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\тест копия программы\Изменение агентов\Сlustering\Сlustering\obj\Debug\Сlustering.exe
+C:\Users\Evgeniy\Desktop\тест копия программы\Изменение агентов\Сlustering\Сlustering\obj\Debug\Сlustering.pdb
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\bin\Debug\Сlustering.exe.config
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\bin\Debug\Сlustering.exe
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\bin\Debug\Сlustering.pdb
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\obj\Debug\Сlustering.csprojAssemblyReference.cache
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\obj\Debug\Сlustering.Form1.resources
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\obj\Debug\Сlustering.Properties.Resources.resources
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\obj\Debug\Сlustering.csproj.GenerateResource.cache
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\obj\Debug\Сlustering.exe
+C:\Users\Evgeniy\Desktop\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\obj\Debug\Сlustering.pdb
+G:\учеба\8 семестр\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\bin\Debug\Сlustering.exe.config
+G:\учеба\8 семестр\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\bin\Debug\Сlustering.exe
+G:\учеба\8 семестр\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\bin\Debug\Сlustering.pdb
+G:\учеба\8 семестр\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\obj\Debug\Сlustering.csprojAssemblyReference.cache
+G:\учеба\8 семестр\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\obj\Debug\Сlustering.Form1.resources
+G:\учеба\8 семестр\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\obj\Debug\Сlustering.Properties.Resources.resources
+G:\учеба\8 семестр\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\obj\Debug\Сlustering.csproj.GenerateResource.cache
+G:\учеба\8 семестр\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\obj\Debug\Сlustering.exe
+G:\учеба\8 семестр\Диплом Моделирование\программное средство\Изменение агентов без экселя\Сlustering\Сlustering\obj\Debug\Сlustering.pdb
